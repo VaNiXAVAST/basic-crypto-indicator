@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VaNiXAVAST/crypto-basic-app.github.io.git/static/css/main.fca76cb8.css",
+    "main.js": "/VaNiXAVAST/crypto-basic-app.github.io.git/static/js/main.56c2053d.js",
+    "static/js/787.f709f1ed.chunk.js": "/VaNiXAVAST/crypto-basic-app.github.io.git/static/js/787.f709f1ed.chunk.js",
+    "index.html": "/VaNiXAVAST/crypto-basic-app.github.io.git/index.html",
+    "main.fca76cb8.css.map": "/VaNiXAVAST/crypto-basic-app.github.io.git/static/css/main.fca76cb8.css.map",
+    "main.56c2053d.js.map": "/VaNiXAVAST/crypto-basic-app.github.io.git/static/js/main.56c2053d.js.map",
+    "787.f709f1ed.chunk.js.map": "/VaNiXAVAST/crypto-basic-app.github.io.git/static/js/787.f709f1ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fca76cb8.css",
+    "static/js/main.56c2053d.js"
+  ]
+}
